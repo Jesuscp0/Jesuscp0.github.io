@@ -5,7 +5,7 @@ and my major is in computer science.
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/Jesuscp0
+My GitHub page is https://github.com/Jesuscp0
 ### CPSC 120
 
 * Lab 1
